@@ -24,7 +24,7 @@ playerAge = int(input("What is your age: "))
 mydb = mysql.connector.connect(
 host = "localhost",
 user = "root",
-passwd = "ProgramWithNoFears920",
+passwd = "",
 database = "python_game_with_mysql",
 )
 #print(mydb)
