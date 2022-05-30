@@ -17,4 +17,4 @@ This is a CLI python game where the game data is saved in a MySQL database.
 
 •	GUI feature
 
-### Game is still very much a work in progress
+
